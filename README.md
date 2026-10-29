@@ -37,13 +37,13 @@ Real, anonymised orders from a Brazilian marketplace, 2016–2018. Seven linked 
 
 ## Dashboard
 **1. Delivery and Sales:** KPIs, delivered orders and on-time rate by month
-![Overview](images/dashboard_1_overview.png)
+![Overview](Images/dashboard_1_overview.png)
 
 **2. Delivery and Reviews:** late rate by region, review scores for late vs on-time orders, delivery-time distribution
-![Delivery and reviews](images/dashboard_2_delivery_reviews.png)
+![Delivery and reviews](Images/dashboard_2_delivery_reviews.png)
 
 **3. Products and States:** top 10 categories by revenue, performance table by customer state
-![Products and states](images/dashboard_3_products_states.png)
+![Products and states](Images/dashboard_3_products_states.png)
 
 **4. Promise vs Reality:** promised vs actual delivery days by region and month, how early orders arrive, same-state vs other-state routes
 ![Promise vs reality](images/dashboard_4_promise_vs_reality.png)
