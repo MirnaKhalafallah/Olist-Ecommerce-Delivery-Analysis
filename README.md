@@ -3,7 +3,7 @@
 How delivery delays affect customer satisfaction, and whether late deliveries can be predicted at purchase.
 Final project for the **Data Analytics Diploma, Nile University**
 
-![Dashboard overview](images/dashboard_1_overview.png)
+![Dashboard overview](Images/dashboard_1_overview.png)
 
 ## Business question
 Do late deliveries hurt customer satisfaction, and can we predict a late delivery at the moment of purchase?
@@ -46,7 +46,7 @@ Real, anonymised orders from a Brazilian marketplace, 2016–2018. Seven linked 
 ![Products and states](Images/dashboard_3_products_states.png)
 
 **4. Promise vs Reality:** promised vs actual delivery days by region and month, how early orders arrive, same-state vs other-state routes
-![Promise vs reality](Iimages/dashboard_4_promise_vs_reality.png)
+![Promise vs reality](Images/dashboard_4_promise_vs_reality.png)
 
 ## Recommendations
 - Use the prediction model as an **early-warning tool**: send proactive updates for high-risk orders
