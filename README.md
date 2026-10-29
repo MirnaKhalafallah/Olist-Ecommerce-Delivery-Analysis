@@ -46,7 +46,7 @@ Real, anonymised orders from a Brazilian marketplace, 2016–2018. Seven linked 
 ![Products and states](Images/dashboard_3_products_states.png)
 
 **4. Promise vs Reality:** promised vs actual delivery days by region and month, how early orders arrive, same-state vs other-state routes
-![Promise vs reality](images/dashboard_4_promise_vs_reality.png)
+![Promise vs reality](Iimages/dashboard_4_promise_vs_reality.png)
 
 ## Recommendations
 - Use the prediction model as an **early-warning tool**: send proactive updates for high-risk orders
